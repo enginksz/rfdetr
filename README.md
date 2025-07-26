@@ -1,6 +1,6 @@
 # RFDETR Object Detection
 
-Real-time object detection using RFDETR (Radio Frequency Detection Transformer) model.
+Real-time object detection using RFDETR (Roboflow Detection Transformer) model.
 
 ## Features
 
