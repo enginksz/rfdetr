@@ -43,4 +43,4 @@ The FPS (Frames Per Second) is displayed in real-time on the video feed. Perform
 
 ## License
 
-MIT License 
+MIT License
